@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
+title:  "Scrum 是什么 ?"
 author: Beibei
-categories: [ Lifestyle ]
+categories: [Softwareentwicklung]
 tags: [ France ]
 image: assets/images/2.jpg
 rating: 4.5
