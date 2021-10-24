@@ -22,15 +22,7 @@ authors:
     web: https://beibeitian.github.io/jekyll-theme-memoirs
     linkeln: https://www.linkedin.com/in/beibei-tian
     description: "Walking in the mountains and rivers, always chasing the sun."
-    
-   John:
-    name: John
-    display_name: John
-    avatar: 'assets/images/beibeitian.jpg'
-    email: tianbeibeibeate@gmail.com
-    web: https://beibeitian.github.io/jekyll-theme-memoirs
-    linkeln: https://www.linkedin.com/in/beibei-tian
-    description: "Walking in the mountains and rivers, always chasing the sun."
+ 
 
 # Plugins
 plugins:
