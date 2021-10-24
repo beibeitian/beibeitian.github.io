@@ -14,7 +14,7 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-  Beibei
+  Beibei:
     name: Beibei
     display_name: Beibei
     avatar: 'assets/images/beibeitian.jpg'
@@ -22,7 +22,15 @@ authors:
     web: https://beibeitian.github.io/jekyll-theme-memoirs
     linkeln: https://www.linkedin.com/in/beibei-tian
     description: "Walking in the mountains and rivers, always chasing the sun."
- 
+    
+    john:
+    name: John
+    display_name: John    
+    avatar: 'assets/images/avatar.png'
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
