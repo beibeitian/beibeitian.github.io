@@ -14,16 +14,15 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-    Beibei:
-    name: Beibei
-    display_name: Beibei
-    avatar: 'assets/images/beibeitian.jpg'
-    email: tianbeibeibeate@gmail.com
-    web: https://beibeitian.github.io/jekyll-theme-memoirs
-    linkeln: https://www.linkedin.com/in/beibei-tian
-    description: "Walking in the mountains and rivers, always chasing the sun."
-    
-    john:
+  sal:
+    name: Sal
+    display_name: Sal
+    avatar: 'assets/images/avatar-sal.png'
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/donate/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+  john:
     name: John
     display_name: John    
     avatar: 'assets/images/avatar.png'
@@ -54,7 +53,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: rouge
+highlighter: none
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
