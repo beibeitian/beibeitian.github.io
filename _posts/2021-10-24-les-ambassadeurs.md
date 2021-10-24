@@ -4,7 +4,7 @@ title:  "Scrum 是什么 ?"
 author: Beibei
 categories: [Softwareentwicklung]
 tags: [ France ]
-image: assets/images/2.jpg
+image: assets/images/luh.jpg
 rating: 4.5
 ---
 
