@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CI/CD Pipelines"
+title:  "CI/CD Pipelines 持续集成/持续交付"
 author: Beibei
 categories: [ SW-Entwicklung ]
 image: assets/images/luh.jpg
