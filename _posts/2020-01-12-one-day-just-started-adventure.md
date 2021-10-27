@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "One day we just started our adventure"
-author: sal
-categories: [ Travel ]
+title:  "CI/CD Pipelines"
+author: Beibei
+categories: [ SW-Entwicklung ]
 image: assets/images/luh.jpg
 ---
 The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
